@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-05-29T10:50:27.413Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:125.0) Gecko/20100101 Firefox/125.0" etag="uc9s5V-l7ZH3eJQY_fhl" version="24.4.9" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-29T11:05:27.417Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:125.0) Gecko/20100101 Firefox/125.0" etag="c_Ypv3w3hugfKj4RNAQv" version="24.4.9" type="github">
   <diagram name="Page-1" id="VY42i5THTiWJG4nK8XkW">
-    <mxGraphModel dx="1416" dy="769" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="456" dy="721" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -39,6 +39,9 @@
             <mxPoint x="337" y="360" as="sourcePoint" />
             <mxPoint x="387" y="310" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="RhmOXJc2lppB-XdVBHib-3" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/security.svg;fillColor=#FF8CCD;" vertex="1" parent="1">
+          <mxGeometry x="470" y="247" width="31.5" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
