@@ -1,65 +1,20 @@
-<mxfile host="app.diagrams.net" modified="2024-06-17T14:31:49.674Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:126.0) Gecko/20100101 Firefox/126.0" etag="be83IOtbGU1c3NLLm8mU" version="24.5.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-17T14:53:09.700Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:126.0) Gecko/20100101 Firefox/126.0" etag="plMr2dm9oNB8nHW4-zm4" version="24.5.4" type="github">
   <diagram name="Page-1" id="97916047-d0de-89f5-080d-49f4d83e522f">
     <mxGraphModel dx="1420" dy="893" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="2" value="PERMANENT SECRETARY" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="683" y="205.5" width="200" height="60" as="geometry" />
+          <mxGeometry x="683" y="225.5" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3" value="PRINCIPAL" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="673" y="387" width="220" height="45.5" as="geometry" />
         </mxCell>
-        <mxCell id="9" value="Office of Global Support" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="282" y="809.5" width="200" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="10" value="Office of &#xa;Backtrack Analysis" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="282" y="899.5" width="200" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="11" value="Department of &#xa;Heuristic Support" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="282" y="989.5" width="200" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="12" value="Office of Intelligence &#xa;Support" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="282" y="1079.5" width="200" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="13" value="DEPUTY PRINCIPAL - ACADEMIC, RESEARCH AND CONSULTANCY" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="310" y="680" width="468" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="14" value="Database Administration" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="552" y="809.5" width="200" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="15" value="Office of Technology &#xa;Research" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="552" y="899.5" width="200" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="16" value="Office of&#xa;Data Services" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="552" y="989.5" width="200" height="60" as="geometry" />
+          <mxGeometry x="293" y="630" width="468" height="60" as="geometry" />
         </mxCell>
         <mxCell id="18" value="DEPUTY PRINCIPAL - PLANNING, FINANCE AND ADMINISTRATION" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="813" y="680" width="517" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="19" value="Office of Financial &#xa;Management" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="842" y="809.5" width="200" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="20" value="Office of Human Resources" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="842" y="899.5" width="200" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="21" value="Office of Management " style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="842" y="989.5" width="200" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="22" value="Office of Training Services" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="842" y="1079.5" width="200" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="24" value="Office of Regulatory Policy" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="1092" y="809.5" width="200" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="25" value="Office Compliance" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="1092" y="899.5" width="200" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="26" value="Office of &#xa;Enforcement" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="1092" y="989.5" width="200" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="27" value="Office of&#xa; Regulatory Support" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="1092" y="1079.5" width="200" height="60" as="geometry" />
+          <mxGeometry x="813" y="630" width="517" height="60" as="geometry" />
         </mxCell>
         <mxCell id="29" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;strokeWidth=4;endArrow=none;endFill=1;fontStyle=1;strokeColor=#23445D;" parent="1" source="2" target="3" edge="1">
           <mxGeometry x="22" y="165.5" width="100" height="100" as="geometry">
@@ -67,94 +22,16 @@
             <mxPoint x="122" y="165.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="38" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;strokeWidth=4;endArrow=block;endFill=1;fontStyle=1;strokeColor=#23445D;" parent="1" target="9" edge="1">
-          <mxGeometry x="62" y="165.5" width="100" height="100" as="geometry">
-            <mxPoint x="382" y="789.5" as="sourcePoint" />
-            <mxPoint x="162" y="269.5" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="39" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;strokeWidth=4;endArrow=block;endFill=1;fontStyle=1;strokeColor=#23445D;" parent="1" source="9" target="10" edge="1">
-          <mxGeometry x="62" y="175.5" width="100" height="100" as="geometry">
-            <mxPoint x="62" y="379.5" as="sourcePoint" />
-            <mxPoint x="162" y="279.5" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="40" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;strokeWidth=4;endArrow=block;endFill=1;fontStyle=1;strokeColor=#23445D;" parent="1" source="10" target="11" edge="1">
-          <mxGeometry x="62" y="185.5" width="100" height="100" as="geometry">
-            <mxPoint x="62" y="389.5" as="sourcePoint" />
-            <mxPoint x="162" y="289.5" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="41" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;strokeWidth=4;endArrow=block;endFill=1;fontStyle=1;strokeColor=#23445D;" parent="1" source="11" target="12" edge="1">
-          <mxGeometry x="62" y="195.5" width="100" height="100" as="geometry">
-            <mxPoint x="62" y="399.5" as="sourcePoint" />
-            <mxPoint x="162" y="299.5" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="43" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;strokeWidth=4;endArrow=block;endFill=1;fontStyle=1;strokeColor=#23445D;" parent="1" source="14" target="15" edge="1">
-          <mxGeometry x="62" y="175.5" width="100" height="100" as="geometry">
-            <mxPoint x="62" y="379.5" as="sourcePoint" />
-            <mxPoint x="162" y="279.5" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="44" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;strokeWidth=4;endArrow=block;endFill=1;fontStyle=1;strokeColor=#23445D;" parent="1" source="15" target="16" edge="1">
-          <mxGeometry x="62" y="185.5" width="100" height="100" as="geometry">
-            <mxPoint x="62" y="389.5" as="sourcePoint" />
-            <mxPoint x="162" y="289.5" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="47" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;strokeWidth=4;endArrow=block;endFill=1;fontStyle=1;strokeColor=#23445D;" parent="1" source="19" target="20" edge="1">
-          <mxGeometry x="72" y="175.5" width="100" height="100" as="geometry">
-            <mxPoint x="72" y="379.5" as="sourcePoint" />
-            <mxPoint x="172" y="279.5" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="48" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;strokeWidth=4;endArrow=block;endFill=1;fontStyle=1;strokeColor=#23445D;" parent="1" source="20" target="21" edge="1">
-          <mxGeometry x="72" y="185.5" width="100" height="100" as="geometry">
-            <mxPoint x="72" y="389.5" as="sourcePoint" />
-            <mxPoint x="172" y="289.5" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="49" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;strokeWidth=4;endArrow=block;endFill=1;fontStyle=1;strokeColor=#23445D;" parent="1" source="21" target="22" edge="1">
-          <mxGeometry x="72" y="195.5" width="100" height="100" as="geometry">
-            <mxPoint x="72" y="399.5" as="sourcePoint" />
-            <mxPoint x="172" y="299.5" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="50" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;strokeWidth=4;endArrow=block;endFill=1;fontStyle=1;strokeColor=#23445D;" parent="1" target="24" edge="1">
-          <mxGeometry x="72" y="165.5" width="100" height="100" as="geometry">
-            <mxPoint x="1192" y="779.5" as="sourcePoint" />
-            <mxPoint x="172" y="269.5" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="51" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;strokeWidth=4;endArrow=block;endFill=1;fontStyle=1;strokeColor=#23445D;" parent="1" source="24" target="25" edge="1">
-          <mxGeometry x="72" y="175.5" width="100" height="100" as="geometry">
-            <mxPoint x="72" y="379.5" as="sourcePoint" />
-            <mxPoint x="172" y="279.5" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="52" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;strokeWidth=4;endArrow=block;endFill=1;fontStyle=1;strokeColor=#23445D;" parent="1" source="25" target="26" edge="1">
-          <mxGeometry x="72" y="185.5" width="100" height="100" as="geometry">
-            <mxPoint x="72" y="389.5" as="sourcePoint" />
-            <mxPoint x="172" y="289.5" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="53" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;strokeWidth=4;endArrow=block;endFill=1;fontStyle=1;strokeColor=#23445D;" parent="1" source="26" target="27" edge="1">
-          <mxGeometry x="72" y="195.5" width="100" height="100" as="geometry">
-            <mxPoint x="72" y="399.5" as="sourcePoint" />
-            <mxPoint x="172" y="299.5" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="54" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;strokeWidth=4;endArrow=none;endFill=1;fontStyle=1;strokeColor=#23445D;" parent="1" source="3" edge="1">
+        <mxCell id="54" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;strokeWidth=4;endArrow=none;endFill=1;fontStyle=1;strokeColor=#23445D;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="3" target="13" edge="1">
           <mxGeometry x="22" y="165.5" width="100" height="100" as="geometry">
             <mxPoint x="22" y="265.5" as="sourcePoint" />
             <mxPoint x="590" y="680" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="590" y="550" />
+              <mxPoint x="560" y="550" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="55" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;strokeWidth=4;endArrow=none;endFill=1;fontStyle=1;strokeColor=#23445D;" parent="1" source="3" edge="1">
+        <mxCell id="55" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;strokeWidth=4;endArrow=none;endFill=1;fontStyle=1;strokeColor=#23445D;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="3" target="18" edge="1">
           <mxGeometry x="22" y="165.5" width="100" height="100" as="geometry">
             <mxPoint x="22" y="265.5" as="sourcePoint" />
             <mxPoint x="970" y="680" as="targetPoint" />
@@ -198,6 +75,96 @@
             <mxPoint x="689" y="460" as="sourcePoint" />
             <mxPoint x="689" y="614" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="a0s4_8WPtWWDCczkax5S-67" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;strokeWidth=4;endArrow=none;endFill=1;fontStyle=1;strokeColor=#23445D;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="13" target="a0s4_8WPtWWDCczkax5S-89">
+          <mxGeometry x="22" y="165.5" width="100" height="100" as="geometry">
+            <mxPoint x="526.5" y="730" as="sourcePoint" />
+            <mxPoint x="523" y="1040" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="527" y="1000" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="a0s4_8WPtWWDCczkax5S-68" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;strokeWidth=4;endArrow=none;endFill=1;fontStyle=1;strokeColor=#23445D;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="18">
+          <mxGeometry x="22" y="165.5" width="100" height="100" as="geometry">
+            <mxPoint x="1070" y="700" as="sourcePoint" />
+            <mxPoint x="1070" y="920" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="a0s4_8WPtWWDCczkax5S-69" value="HEAD OF FORESTRY &#xa;SCIENCES DEPARTMENT" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="266" y="721" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="a0s4_8WPtWWDCczkax5S-70" value="HEAD OF LIBRARY &#xa;SERVICES UNIT" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="557" y="722" width="209" height="58" as="geometry" />
+        </mxCell>
+        <mxCell id="a0s4_8WPtWWDCczkax5S-71" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;strokeWidth=4;endArrow=none;endFill=1;fontStyle=1;strokeColor=#23445D;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="a0s4_8WPtWWDCczkax5S-69" target="a0s4_8WPtWWDCczkax5S-70">
+          <mxGeometry x="22" y="165.5" width="100" height="100" as="geometry">
+            <mxPoint x="342" y="690" as="sourcePoint" />
+            <mxPoint x="342" y="844" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="a0s4_8WPtWWDCczkax5S-73" value="HEAD OF NATURAL &#xa;RESOURCES ASSESSMENT &amp; &#xa;MANAGEMENT DEPARTMENT" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="268" y="800" width="220" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="a0s4_8WPtWWDCczkax5S-74" value="ADMISSION OFFICER" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="559" y="806" width="209" height="58" as="geometry" />
+        </mxCell>
+        <mxCell id="a0s4_8WPtWWDCczkax5S-75" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;strokeWidth=4;endArrow=none;endFill=1;fontStyle=1;strokeColor=#23445D;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="a0s4_8WPtWWDCczkax5S-73" target="a0s4_8WPtWWDCczkax5S-74">
+          <mxGeometry x="22" y="165.5" width="100" height="100" as="geometry">
+            <mxPoint x="342" y="769" as="sourcePoint" />
+            <mxPoint x="342" y="923" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="a0s4_8WPtWWDCczkax5S-76" value="HEAD OF SOCIAL FORESTRY &amp; &#xa;ENVIRONMENTAL SCIENCES" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="269" y="890" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="a0s4_8WPtWWDCczkax5S-77" value="EXAMINATION OFFICER" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="560" y="891" width="209" height="58" as="geometry" />
+        </mxCell>
+        <mxCell id="a0s4_8WPtWWDCczkax5S-78" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;strokeWidth=4;endArrow=none;endFill=1;fontStyle=1;strokeColor=#23445D;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="a0s4_8WPtWWDCczkax5S-76" target="a0s4_8WPtWWDCczkax5S-77">
+          <mxGeometry x="22" y="165.5" width="100" height="100" as="geometry">
+            <mxPoint x="342" y="859" as="sourcePoint" />
+            <mxPoint x="342" y="1013" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="a0s4_8WPtWWDCczkax5S-79" value="HUMAN RESOURCE OFFICER" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="819" y="722" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="a0s4_8WPtWWDCczkax5S-81" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;strokeWidth=4;endArrow=none;endFill=1;fontStyle=1;strokeColor=#23445D;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="a0s4_8WPtWWDCczkax5S-79" target="a0s4_8WPtWWDCczkax5S-80">
+          <mxGeometry x="22" y="165.5" width="100" height="100" as="geometry">
+            <mxPoint x="865" y="691" as="sourcePoint" />
+            <mxPoint x="1094" y="752" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="a0s4_8WPtWWDCczkax5S-82" value="HEAD OF PLANNING, &#xa;BUSINESS &amp; &#xa;BUDGETING UNIT" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="817" y="801" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="a0s4_8WPtWWDCczkax5S-83" value="HEAD OF MEDICAL &#xa;SERVICES UNIT" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="1121" y="802" width="209" height="58" as="geometry" />
+        </mxCell>
+        <mxCell id="a0s4_8WPtWWDCczkax5S-84" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;strokeWidth=4;endArrow=none;endFill=1;fontStyle=1;strokeColor=#23445D;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="a0s4_8WPtWWDCczkax5S-83">
+          <mxGeometry x="22" y="165.5" width="100" height="100" as="geometry">
+            <mxPoint x="1035" y="831" as="sourcePoint" />
+            <mxPoint x="884" y="924" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="a0s4_8WPtWWDCczkax5S-85" value="DEAN OF STUDENTS" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="821" y="891" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="a0s4_8WPtWWDCczkax5S-86" value="HEAD OF ESTATE UNIT" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="1123" y="892" width="209" height="58" as="geometry" />
+        </mxCell>
+        <mxCell id="a0s4_8WPtWWDCczkax5S-87" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;strokeWidth=4;endArrow=none;endFill=1;fontStyle=1;strokeColor=#23445D;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="a0s4_8WPtWWDCczkax5S-85" target="a0s4_8WPtWWDCczkax5S-86">
+          <mxGeometry x="22" y="165.5" width="100" height="100" as="geometry">
+            <mxPoint x="886" y="860" as="sourcePoint" />
+            <mxPoint x="886" y="1014" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="a0s4_8WPtWWDCczkax5S-80" value="HEAD OF FINANCE &amp; &#xa;ACCOUNTS UNIT" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="1120" y="723" width="209" height="58" as="geometry" />
+        </mxCell>
+        <mxCell id="a0s4_8WPtWWDCczkax5S-89" value="HEAD OF SHORT COURSE, &#xa;RESEARCH &amp; CONSULTANCY UNIT" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="268" y="1000" width="246" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
