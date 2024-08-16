@@ -474,7 +474,7 @@
           <mxGeometry x="79" y="71" width="63" height="23" as="geometry" />
         </mxCell>
         <mxCell id="vnGJi8WHBNGMJreN_cTd-5" value="1. Fill Conference Register Book/Make a Call to Administrative Officer" style="whiteSpace=wrap;html=1;" vertex="1" parent="vnGJi8WHBNGMJreN_cTd-3">
-          <mxGeometry x="290" y="49" width="135" height="67" as="geometry" />
+          <mxGeometry x="291" y="49" width="135" height="67" as="geometry" />
         </mxCell>
         <mxCell id="vnGJi8WHBNGMJreN_cTd-6" value="End" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="vnGJi8WHBNGMJreN_cTd-3">
           <mxGeometry x="684" y="70" width="70" height="25" as="geometry" />
@@ -520,9 +520,9 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="vnGJi8WHBNGMJreN_cTd-18" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="vnGJi8WHBNGMJreN_cTd-2" target="vnGJi8WHBNGMJreN_cTd-15">
+        <mxCell id="vnGJi8WHBNGMJreN_cTd-18" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="vnGJi8WHBNGMJreN_cTd-2" source="vnGJi8WHBNGMJreN_cTd-5" target="vnGJi8WHBNGMJreN_cTd-15">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="359" y="123" as="sourcePoint" />
+            <mxPoint x="370" y="142" as="sourcePoint" />
             <mxPoint x="359" y="258" as="targetPoint" />
           </mxGeometry>
         </mxCell>
