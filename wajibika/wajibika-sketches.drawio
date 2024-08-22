@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" version="24.7.7" pages="45">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:129.0) Gecko/20100101 Firefox/129.0" version="24.7.7" pages="44">
   <diagram name="employee permission request" id="IkzDn-hzaN0rCD2kMlex">
-    <mxGraphModel dx="1416" dy="769" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1420" dy="893" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3214,91 +3214,6 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="670" y="360" as="sourcePoint" />
             <mxPoint x="720" y="310" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-      </root>
-    </mxGraphModel>
-  </diagram>
-  <diagram name="conference booking" id="a8-PkoKZrtXLTvsoKJer">
-    <mxGraphModel dx="794" dy="454" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
-      <root>
-        <mxCell id="vnGJi8WHBNGMJreN_cTd-0" />
-        <mxCell id="vnGJi8WHBNGMJreN_cTd-1" parent="vnGJi8WHBNGMJreN_cTd-0" />
-        <mxCell id="vnGJi8WHBNGMJreN_cTd-2" value="CONFERENCE BOOKING" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=1;startSize=20;horizontalStack=0;html=1;swimlaneFillColor=#FFFFFF;" parent="vnGJi8WHBNGMJreN_cTd-1" vertex="1">
-          <mxGeometry x="30" y="38" width="760" height="380" as="geometry" />
-        </mxCell>
-        <mxCell id="vnGJi8WHBNGMJreN_cTd-3" value="&lt;div&gt;MEETING SECRETARIAT&lt;/div&gt;&lt;div&gt;(EMPLOYEE)&lt;br&gt;&lt;/div&gt;" style="swimlane;startSize=70;horizontal=0;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;swimlaneFillColor=#FFFFFF;" parent="vnGJi8WHBNGMJreN_cTd-2" vertex="1">
-          <mxGeometry y="20" width="760" height="180" as="geometry" />
-        </mxCell>
-        <mxCell id="vnGJi8WHBNGMJreN_cTd-4" value="Start" style="ellipse;whiteSpace=wrap;html=1;" parent="vnGJi8WHBNGMJreN_cTd-3" vertex="1">
-          <mxGeometry x="79" y="71" width="63" height="23" as="geometry" />
-        </mxCell>
-        <mxCell id="vnGJi8WHBNGMJreN_cTd-5" value="1. Fill Conference Register Book/Make a Call to Administrative Officer" style="whiteSpace=wrap;html=1;" parent="vnGJi8WHBNGMJreN_cTd-3" vertex="1">
-          <mxGeometry x="291" y="49" width="135" height="67" as="geometry" />
-        </mxCell>
-        <mxCell id="vnGJi8WHBNGMJreN_cTd-6" value="End" style="ellipse;whiteSpace=wrap;html=1;" parent="vnGJi8WHBNGMJreN_cTd-3" vertex="1">
-          <mxGeometry x="684" y="70" width="70" height="25" as="geometry" />
-        </mxCell>
-        <mxCell id="vnGJi8WHBNGMJreN_cTd-7" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="vnGJi8WHBNGMJreN_cTd-3" source="vnGJi8WHBNGMJreN_cTd-4" target="vnGJi8WHBNGMJreN_cTd-5" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="137.00000000000227" y="82.66" as="sourcePoint" />
-            <mxPoint x="187" y="82.66" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="vnGJi8WHBNGMJreN_cTd-9" value="4. Utilize Conference " style="whiteSpace=wrap;html=1;" parent="vnGJi8WHBNGMJreN_cTd-3" vertex="1">
-          <mxGeometry x="540" y="63" width="110" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="vnGJi8WHBNGMJreN_cTd-10" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="vnGJi8WHBNGMJreN_cTd-3" source="vnGJi8WHBNGMJreN_cTd-9" target="vnGJi8WHBNGMJreN_cTd-6" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="600" y="81.66" as="sourcePoint" />
-            <mxPoint x="652" y="82.32" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="vnGJi8WHBNGMJreN_cTd-14" value="&lt;div&gt;ADMINISTRATIVE OFFICER&lt;/div&gt;&lt;div&gt;(DHRAM)&lt;br&gt;&lt;/div&gt;" style="swimlane;startSize=70;horizontal=0;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="vnGJi8WHBNGMJreN_cTd-2" vertex="1">
-          <mxGeometry y="200" width="760" height="180" as="geometry" />
-        </mxCell>
-        <mxCell id="vnGJi8WHBNGMJreN_cTd-15" value="&lt;div&gt;2. Is Conference Vacant?&lt;br&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="vnGJi8WHBNGMJreN_cTd-14" vertex="1">
-          <mxGeometry x="279" y="18" width="160" height="102" as="geometry" />
-        </mxCell>
-        <mxCell id="DthVY3qIUd6OblYebUOp-1" value="3. Grant Conference Facility" style="whiteSpace=wrap;html=1;" parent="vnGJi8WHBNGMJreN_cTd-14" vertex="1">
-          <mxGeometry x="545" y="49" width="110" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="DthVY3qIUd6OblYebUOp-3" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="vnGJi8WHBNGMJreN_cTd-14" source="vnGJi8WHBNGMJreN_cTd-15" target="DthVY3qIUd6OblYebUOp-1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="460" y="68" as="sourcePoint" />
-            <mxPoint x="530" y="69" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="DthVY3qIUd6OblYebUOp-4" value="YES" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="DthVY3qIUd6OblYebUOp-3" vertex="1" connectable="0">
-          <mxGeometry x="-0.6044" y="-2" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="vnGJi8WHBNGMJreN_cTd-18" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="vnGJi8WHBNGMJreN_cTd-2" source="vnGJi8WHBNGMJreN_cTd-5" target="vnGJi8WHBNGMJreN_cTd-15" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="370" y="142" as="sourcePoint" />
-            <mxPoint x="359" y="258" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="vnGJi8WHBNGMJreN_cTd-26" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="vnGJi8WHBNGMJreN_cTd-2" source="vnGJi8WHBNGMJreN_cTd-15" target="vnGJi8WHBNGMJreN_cTd-6" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="359" y="259" as="sourcePoint" />
-            <mxPoint x="470" y="362" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="360" y="362" />
-              <mxPoint x="720" y="362" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="DthVY3qIUd6OblYebUOp-2" value="NO" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="vnGJi8WHBNGMJreN_cTd-26" vertex="1" connectable="0">
-          <mxGeometry x="-0.9261" y="-1" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="hJztSQQBkW77to65W2g--0" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="vnGJi8WHBNGMJreN_cTd-1" source="DthVY3qIUd6OblYebUOp-1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="399" y="184" as="sourcePoint" />
-            <mxPoint x="630" y="160" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
@@ -7090,7 +7005,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="FS-Vehicle permit" id="9vDaf68Np8HSiO6cnqqT">
-    <mxGraphModel dx="1050" dy="557" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1134" dy="741" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -7244,7 +7159,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="GkibUu_lhC8HmiRCz7WJ-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="QOV2xjPVtCXbK3N0x4Fc-8" target="NtC6HhVZocCUKIw3hJcr-1" edge="1">
+        <mxCell id="GkibUu_lhC8HmiRCz7WJ-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="QOV2xjPVtCXbK3N0x4Fc-8" target="NtC6HhVZocCUKIw3hJcr-1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="460" y="340" />
