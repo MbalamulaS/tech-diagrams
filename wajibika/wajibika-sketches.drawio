@@ -1322,25 +1322,6 @@
         <mxCell id="dRFVn4D_SkzAJBRmrMqy-8" value="5. Assign vehicle" style="whiteSpace=wrap;html=1;" parent="dRFVn4D_SkzAJBRmrMqy-4" vertex="1">
           <mxGeometry x="456" y="45" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="dRFVn4D_SkzAJBRmrMqy-14" value="DPMU" style="swimlane;startSize=20;horizontal=0;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;swimlaneFillColor=default;" parent="1" vertex="1">
-          <mxGeometry x="150" y="650" width="750" height="180" as="geometry">
-            <mxRectangle y="280" width="750" height="30" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="dRFVn4D_SkzAJBRmrMqy-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="dRFVn4D_SkzAJBRmrMqy-14" source="dRFVn4D_SkzAJBRmrMqy-17" target="dRFVn4D_SkzAJBRmrMqy-18" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="dRFVn4D_SkzAJBRmrMqy-16" value="YES" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="dRFVn4D_SkzAJBRmrMqy-15" connectable="0" vertex="1">
-          <mxGeometry x="-0.155" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="dRFVn4D_SkzAJBRmrMqy-17" value="&lt;div&gt;4. Process&lt;br&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="dRFVn4D_SkzAJBRmrMqy-14" vertex="1">
-          <mxGeometry x="319" y="25" width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="dRFVn4D_SkzAJBRmrMqy-18" value="5. Assign Fuel" style="whiteSpace=wrap;html=1;" parent="dRFVn4D_SkzAJBRmrMqy-14" vertex="1">
-          <mxGeometry x="456" y="45" width="110" height="40" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
